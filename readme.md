@@ -19,7 +19,7 @@
 
 <!-- Actual text -->
 
-You can find me on <a href="https://twitter.com/wdsandeep">Twitter</a> and <a href="https://www.linkedin.com/in/sandeep-kumar-318bb14a/">Linkedin</a> .
+You can find me on <a href="https://twitter.com/wdsandeep" target="_blank">Twitter</a> and <a href="https://www.linkedin.com/in/sandeep-kumar-318bb14a/" target="_blank">Linkedin</a> .
 
 
 
